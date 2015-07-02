@@ -1,2 +1,2 @@
 # Cart
-Arduino sketch for our robot's cart
+The Arduino sketch moves a sissors lift when it detects a wave with the ultrasonic sensor.
